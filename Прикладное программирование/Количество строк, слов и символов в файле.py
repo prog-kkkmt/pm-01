@@ -1,7 +1,7 @@
 #Определить, сколько в текстовом файле строк, слов и символов.
 import sys
 
-fname = sys.argv[1]
+fname = sys.argv[0]
 lines = 0
 words = 0
 letters = 0
