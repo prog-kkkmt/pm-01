@@ -11,9 +11,9 @@ long fact(int n)
 
 int main()
 {
+    double s = 0.0;
     int n;
     cin >> n;
-    double s = 0.0;
     for (int i = 1; i <= n; ++i)
         s += 1.0/fact(i);
     cout << s;
