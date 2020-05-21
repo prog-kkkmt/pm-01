@@ -1,0 +1,7 @@
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\bin\Debug\ModuleExam.exe.config
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\bin\Debug\ModuleExam.exe
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\bin\Debug\ModuleExam.pdb
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\obj\Debug\ModuleExam.csprojAssemblyReference.cache
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\obj\Debug\ModuleExam.csproj.CoreCompileInputs.cache
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\obj\Debug\ModuleExam.exe
+C:\Users\roota\Documents\STM\Курсовая\Модуль\ModuleExam\ModuleExam\obj\Debug\ModuleExam.pdb
