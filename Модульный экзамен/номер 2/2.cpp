@@ -1,20 +1,20 @@
 #include <iostream>
 using namespace std;
 
-long double fact(int N)
-{
-if(N < 0)
-return 0;
-if (N == 0)
-return 1;
-else
-return N * fact(N - 1);
+long double fact(int n){
+	long f = 1;
+	double result = 0.0;
+	for(int i=1;i<=n;i++){
+		f*=i;
+		result+=1.0/f;
+	}
+	return result;
 }
 
-int main()
-{
-int N;
-cin >> N;
-cout << "Факториал " << N << " = " << fact(N) << endl;
-return 0;
+
+int main(){
+	int n;
+	cin>>n;
+	cout << fact(n) << endl;
+	return 0;
 }
